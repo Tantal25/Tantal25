@@ -14,6 +14,4 @@
 ![Nginx](https://img.shields.io/badge/NGINX-009639?style=plastic&logo=nginx&logoColor=%23009639&labelColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=plastic&logo=gunicorn&labelColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&labelColor=white)
-<div id="technologies" align="center">
 ![GitHub%20Actions](https://img.shields.io/badge/GitHub_actions-2088FF?style=plastic&logo=githubactions&labelColor=white)
-</div>
