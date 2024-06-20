@@ -1,7 +1,7 @@
 <div id="header" align="center">
 </div>
-  # Привет, меня зовут Вадим
-  # Я Backend Python Developer
+# Привет, меня зовут Вадим
+# Я Backend Python Developer
 
 
 ### Технологии
