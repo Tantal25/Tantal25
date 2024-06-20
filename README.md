@@ -4,7 +4,6 @@
 </div>
 
 ### Технологии
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=092E20&labelColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=092E20&labelColor=white)
 ![Django REST Framework](https://img.shields.io/badge/-Django_REST_framework-DC143C?style=plastic)
