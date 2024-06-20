@@ -1,3 +1,6 @@
+# Привет, меня зовут Вадим
+# Я Backend Python Developer
+
 ### Технологии
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=092E20&labelColor=white)
