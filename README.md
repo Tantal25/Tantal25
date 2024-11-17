@@ -4,7 +4,7 @@
 </div>
 
 ## Навыки
-![Python](https://img.shields.io/badge/-MicroPython-2B2728?style=flat&logo=micropython&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/-Django_REST_framework-DC143C?style=plastic)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
