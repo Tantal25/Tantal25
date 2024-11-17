@@ -16,4 +16,4 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)
-![GitHub%20Actions](https://img.shields.io/badge/-GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/-GitHubActions-2088FF?style=flat&logo=githubactions&logoColor=white)
