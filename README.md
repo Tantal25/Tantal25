@@ -4,13 +4,13 @@
 </div>
 
 ## Навыки
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=092E20&labelColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=092E20&labelColor=white)
+![Python](https://img.shields.io/badge/-MicroPython-2B2728?style=flat&logo=micropython&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/-Django_REST_framework-DC143C?style=plastic)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy)
-![Pydantic](https://img.shields.io/badge/Pydantic)
-![Pytest](https://img.shields.io/badge/Pytest)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&labelColor=white)
 ![Redis](https://img.shields.io/badge/Redis-2088FF?style=plastic&logo=redis&labelColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-4169E1?style=plastic&logo=sqlite)
