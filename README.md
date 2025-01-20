@@ -7,7 +7,7 @@
 - :bomb: Люблю разработку и решение сложных задач
 - :briefcase: Мой опыт включает в себя разработку веб-приложений, API, Telegram-ботов, работу с базами данных и различными технологиями.
 - :books: В настоящее время углубляюсь в Asynico и изучаю архитектурные паттерны
-- :mailbox: Со мной можно связаться в Telegram: [![Telegram Badge](https://img.shields.io/badge/-Tantal25-blue?style=flat&logo=Telegram&logoColor=white)]([@Tantal25](https://t.me/Tantal25))
+- :mailbox: Со мной можно связаться в Telegram: [![Telegram Badge](https://img.shields.io/badge/-Tantal25-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tantal25)
 
 ### :gear: Мой стек:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
